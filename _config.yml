@@ -1,4 +1,4 @@
-title: Hello，world
+﻿title: Hello，world
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
  # Write an awesome description for your new site here. You can edit this
@@ -11,7 +11,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author: Michelle # add your name
-author-pic: 7b250841b518f1ea!400x400_big.jpg.jpg
+author-pic: adam-face.jpg
 about-author: My name is michelle.
 
 # Contact links
